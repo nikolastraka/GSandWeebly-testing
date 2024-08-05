@@ -43,5 +43,10 @@ npm run test:weebly --url=https://yoursite.weebly.com
 npm run test:google --url=https://yoursite.google.com --output=HTML --report
 
 
-Sites That I tested with this Tool:
-
+Sites That I tested with this Tool on:
+https://sites.google.com/view/microdosing-for-men/microdosing
+https://microdosingmushroomstoday.blogspot.com/2024/08/magic-mushrooms-unlocking-potential-of.html
+https://microdosingmushroomstoday.blogspot.com/2024/08/magic-mushrooms-unlocking-potential-of.html
+https://magicalmushroomworld.weebly.com
+https://theworldofmagicmushrooms.weebly.com/
+https://theworldofmagicmushroom.weebly.com/
